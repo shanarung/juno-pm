@@ -1,7 +1,9 @@
-[AIBLE use case prioritization.md](https://github.com/user-attachments/files/34860135/AIBLE.use.case.prioritization.md)
-# AIBLE use case prioritization
+[AI use case prioritization (sample data).md](https://github.com/user-attachments/files/34860258/AI.use.case.prioritization.sample.data.md)
+# AI use case prioritization
 
-14 intake tickets created Nov 2–12, 2026 on the AIBLE Projects & Use Cases board. Ranked on value and scalability. Stakeholder wording is quoted as submitted; scalability ratings are my assessment from your criteria and are unconfirmed.
+Prototype with synthetic data. All names, brands, vendors, tools and figures are fictional.
+
+14 sample intake tickets on an AI use case board. Ranked on value and scalability. Stakeholder wording is quoted as submitted; scalability ratings are my assessment from your criteria and are unconfirmed.
 
 **3** High priority **8** Blocked: data not ready **3** Not high priority
 
@@ -9,11 +11,11 @@ Select a block to jump to that ticket.
 
 ### Start here
 
-Three tickets are ready for AI product team review. “Enable Claude connectors” leads: it states 1–2 hours a day for six engineers and names the systems of record as its data.
+Three tickets are ready for AI product team review. “Enable assistant connectors” leads: it states about 90 minutes a day for five engineers and names the systems of record as its data.
 
 ### Biggest unlock
 
-“Creative Asset Versioning” states over $35,000/month in savings but gives no data source. It becomes a high-priority candidate once data is confirmed.
+“Creative Asset Versioning” states over $28,000/month in savings but gives no data source. It becomes a high-priority candidate once data is confirmed.
 
 ### Needs your call
 
@@ -50,13 +52,10 @@ Value is hard to set a minimum for, so any stated dollar or hour figure counts a
 ## Questions for you
 
 1. Do the scalability ratings look right? I rated on audience, team size, reuse across departments and brands, and repeatability. Where I assumed a setup could carry over to other teams or brands, it’s marked on the card.
-2. Do the platform and evaluation tickets (AI Gateway, Knowledge Graph Storage, Snowflake vs Netlify, Writer vs Gemini) belong in this use case queue, or should they be tracked separately?
-3. Should I also triage the older intake tickets (Sep 29–Oct 22) and the “AIBLE Projects & Use Cases x WRITER Team” board?
+2. Do the platform and evaluation tickets (AI Gateway, Knowledge Graph Storage, Warehouse vs Web Host, Assistant A vs Assistant B) belong in this use case queue, or should they be tracked separately?
+3. Should I also triage the older intake tickets and a second partner-team board?
 
-Source: Asana, AIBLE Projects & Use Cases board, pulled Nov 14, 2026. “Ready” data means the form named a source of truth, per your instruction; no stakeholder separately confirmed readiness.
+Synthetic data created for demonstration. Any resemblance to real people, companies or products is coincidental. “Ready” data means the form named a source of truth.
 
 
-<img width="521" height="671" alt="Screenshot 2026-11-14 at 12 03 13 PM" src="https://github.com/user-attachments/assets/625ec3a4-6ff2-4db4-a55e-ba6942352289" />
-<img width="484" height="663" alt="Screenshot 2026-11-14 at 12 03 22 PM" src="https://github.com/user-attachments/assets/4dc4ebae-b4e3-4b67-bd26-8b170d63e8d4" />
-<img width="492" height="231" alt="Screenshot 2026-11-14 at 12 03 38 PM" src="https://github.com/user-attachments/assets/fb542f56-f1b3-472a-b8f8-611a0e622084" />
-
+[AI use case prioritization (sample data) - Claude.pdf](https://github.com/user-attachments/files/34860271/AI.use.case.prioritization.sample.data.-.Claude.pdf)
