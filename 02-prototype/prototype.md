@@ -49,13 +49,6 @@ Value is hard to set a minimum for, so any stated dollar or hour figure counts a
 - What would success look like, and is there a date or event driving the timing?
 - Does the data involved need Security, Legal or Finance sign-off before an AI tool touches it?
 
-## Questions for you
-
-1. Do the scalability ratings look right? I rated on audience, team size, reuse across departments and brands, and repeatability. Where I assumed a setup could carry over to other teams or brands, it’s marked on the card.
-2. Do the platform and evaluation tickets (AI Gateway, Knowledge Graph Storage, Warehouse vs Web Host, Assistant A vs Assistant B) belong in this use case queue, or should they be tracked separately?
-3. Should I also triage the older intake tickets and a second partner-team board?
-
-Synthetic data created for demonstration. Any resemblance to real people, companies or products is coincidental. “Ready” data means the form named a source of truth.
 
 
 [AI use case prioritization (sample data) - Claude.pdf](https://github.com/user-attachments/files/34860271/AI.use.case.prioritization.sample.data.-.Claude.pdf)
